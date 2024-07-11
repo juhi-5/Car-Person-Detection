@@ -1,0 +1,8 @@
+pandas
+numpy
+tensorflow
+os
+matplotlib.pyplot
+cv2
+PIL
+sklearn.cluster
